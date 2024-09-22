@@ -11,6 +11,8 @@ This project implements an  reasoning system based on the Atlas algorithm, an ex
 Check out the traces folder for the traces of the reasoning process. Its pretty interesting to see how the system behaves and how it emulate reasoning.
 [Traces](traces/trace.txt) 
 
+[Example](traces/example.png)
+
 ### Highlevel Data Flow 
 1. User Input
    - Question to be answered
