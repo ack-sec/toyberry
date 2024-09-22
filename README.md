@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Example Trace](traces/example.png)
+
 This project implements an  reasoning system based on the Atlas algorithm, an extension of Monte Carlo Tree Search (MCTS). The system uses large language models (LLMs) to generate and evaluate reasoning trajectories for complex problem-solving tasks. Mainly focus on getting the traces and trajectories of the reasoning process and to see how the system behaves. It can have varied applications 
 - Undestanding the generation of thoughts
 - Injection can help to break and can perform alignment esacpaces more realiably 
@@ -11,7 +13,7 @@ This project implements an  reasoning system based on the Atlas algorithm, an ex
 Check out the traces folder for the traces of the reasoning process. Its pretty interesting to see how the system behaves and how it emulate reasoning.
 [Traces](traces/trace.txt) 
 
-[Example](traces/example.png)
+
 
 ### Highlevel Data Flow 
 1. User Input
