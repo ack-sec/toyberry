@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "toyberry"
+version = "0.1.0"
+description = ""
+authors = ["ak"]
+readme = "README.md"
+packages = [{include = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+openai = "^1.47.0"
+gradio = "^4.44.0"
+graphviz = "^0.20.3"
+transformers = "^4.44.2"
+torch = "2.2.0"
+sentence-transformers = "3.0.0"
+numpy = "<2"
+anthropic = "^0.34.2"
+groq = "^0.11.0"
+together = "^1.2.12"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
