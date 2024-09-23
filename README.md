@@ -9,10 +9,16 @@ This project implements an  reasoning system based on the Atlas algorithm, an ex
 - Focused Synthetic data generation 
 - More .. 
 
-Check out the traces folder for the traces of the reasoning process. Its pretty interesting to see how the system behaves and how it emulate reasoning.
-[Traces](traces/trace.txt) 
+#### Traces
+🔍 [View Sample Traces](traces/trace.txt)
+Aim is to  expand and collect  domain-specific traces, and we need your help! 
+#### How to Contribute
+1. Fork this repository
+2. Add your domain-specific traces to the `traces` folder
+3. Submit a Pull Request with your additions
 
-
+#### Research Paper
+📄 **Paper: Coming Soon!**
 
 ### Highlevel Data Flow 
 1. User Input
@@ -190,10 +196,6 @@ By combining these mathematical principles with advanced language models, the At
 - MultiAgent Atlas: Atlas can be extended to support multi-agent reasoning, where multiple agents collaborate to solve complex problems. This can be achieved by introducing communication and coordination mechanisms between agents.
 
 
-## Contributing
-
-Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
-This is not a full focus project of mine but will spend couple of hours every week, so expect delay in responses and fixes. 
 
 ## Copyright
 
